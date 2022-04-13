@@ -1,4 +1,4 @@
-# flutter_cryptowallet_app
+# UpTrade - Flutter
 
 This project contain implementation of
 
