@@ -1,16 +1,12 @@
 # flutter_cryptowallet_app
 
-A new Flutter project.
+This project contain implementation of
 
-## Getting Started
+- Flutter local notification, see documentation [here](https://pub.dev/packages/flutter_local_notifications)
+- Fetch data from internet using http, see documentation [here](https://pub.dev/packages/http)
 
-This project is a starting point for a Flutter application.
+How to run 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- git clone https://github.com/bagasstrongman/UpTrade.git
+- flutter pub get
+- flutter run
